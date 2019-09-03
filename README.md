@@ -5,3 +5,4 @@ Aluno Impacta<br/>
 Sucesso<br/>
 Gratidão<br/>
 Realização<br/>
+verdade<br/>
